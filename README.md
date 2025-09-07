@@ -7,8 +7,9 @@ Our goal is *not to replace professional counsellors, but to provide **self-help
 ---
 
 ## 🔗 Links
-- **Figma Prototype:**  
-- **YouTube Presentation:**  
+- **Figma Prototype: https://www.figma.com/proto/2ZnpQ3PU1UnbDteOLsxVBF/CodeNection---Prototype?node-id=314-777&t=NLmicVpKsgshQJAI-1&starting-point-node-id=53%3A944**  
+- **Figma Design: https://www.figma.com/design/2ZnpQ3PU1UnbDteOLsxVBF/CodeNection---Prototype?node-id=144-566&m=dev**
+- **YouTube Presentation: https://youtu.be/4fC0BunnR8c **  
 
 ---
 
