@@ -82,5 +82,5 @@ Our goal is *not to replace professional counsellors, but to provide **self-help
 
 1.⁠ ⁠*Clone the repository*
    ```bash
-   git clone https://github.com/your-username/mind-care.git
-   cd mind-care 
+   git clone https://github.com/mzaidaqil/mindcare-codenection25.git
+   cd mindcare-codenection25
