@@ -1,4 +1,4 @@
-🌿 Mind Care – Mobile Application
+# 🌿 Mind Care — Mobile Application
 **Your guide to a healthier university journey.**
 
 *Mind Care* is a mobile application designed to support university students in managing mental health challenges such as *depression* and *anxiety*.  
